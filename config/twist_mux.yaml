@@ -14,4 +14,4 @@ twist_mux:
         timeout : 0.5
         priority: 100
         #Velocidad máxima a control remoto
-        scale : 0.9
+        #scale : 0.9
