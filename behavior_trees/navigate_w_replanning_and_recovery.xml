@@ -1,0 +1,14 @@
+<root main_tree_to_execute="MainTree">
+  <BehaviorTree ID="MainTree">
+    <Sequence name="navigate_sequence">
+      <!-- Acción de navegación hacia el objetivo -->
+      <Action action_name="NavigateToPose"/>
+
+      <!-- Condición de si el objetivo ha sido alcanzado -->
+      <Condition condition_name="GoalReached"/>
+
+      <!-- Acción de espera para gestionar cualquier atraso o espera durante el movimiento -->
+      <Action action_name="Wait"/>
+    </Sequence>
+  </BehaviorTree>
+</root>

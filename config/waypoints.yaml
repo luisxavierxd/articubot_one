@@ -1,0 +1,648 @@
+# Waypoint 1
+- pose:
+    position:
+      x: 2.2875
+      y: 0.61
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 2
+- pose:
+    position:
+      x: 2.2875
+      y: 0.1952
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.92388
+      w: -0.38268
+  pause: 0
+# Waypoint 3
+- pose:
+    position:
+      x: 2.0252
+      y: 0.0976
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.92388
+      w: 0.38268
+  pause: 0
+# Waypoint 4
+- pose:
+    position:
+      x: 1.6836
+      y: 0.2562
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.96593
+      w: -0.25882
+  pause: 0
+# Waypoint 5
+- pose:
+    position:
+      x: 1.3298
+      y: 0.1952
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 6
+- pose:
+    position:
+      x: 1.3298
+      y: 0.549
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 7
+- pose:
+    position:
+      x: 1.3298
+      y: 0.8052
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.21644
+      w: 0.9763
+  pause: 0
+# Waypoint 8
+- pose:
+    position:
+      x: 1.4396
+      y: 0.8479
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 0
+# Waypoint 9
+- pose:
+    position:
+      x: 1.5555
+      y: 0.8967
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.25882
+      w: 0.96593
+  pause: 0
+# Waypoint 10
+- pose:
+    position:
+      x: 1.5555
+      y: 0.8967
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 0
+# Waypoint 11
+- pose:
+    position:
+      x: 1.7812
+      y: 0.8967
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 2000
+# Waypoint 12
+- pose:
+    position:
+      x: 1.5555
+      y: 0.8967
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 0
+# Waypoint 13
+- pose:
+    position:
+      x: 1.5555
+      y: 0.8967
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 14
+- pose:
+    position:
+      x: 1.5555
+      y: 1.0065
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 15
+- pose:
+    position:
+      x: 1.5555
+      y: 1.0065
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 0
+# Waypoint 16
+- pose:
+    position:
+      x: 1.7812
+      y: 1.0065
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 2000
+# Waypoint 17
+- pose:
+    position:
+      x: 1.5555
+      y: 1.0065
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 0
+# Waypoint 18
+- pose:
+    position:
+      x: 1.5555
+      y: 1.0065
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 19
+- pose:
+    position:
+      x: 1.5555
+      y: 1.1163
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 20
+- pose:
+    position:
+      x: 1.5555
+      y: 1.1163
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 0
+# Waypoint 21
+- pose:
+    position:
+      x: 1.7812
+      y: 1.1163
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  pause: 2000
+# Waypoint 22
+- pose:
+    position:
+      x: 1.3481
+      y: 1.0858
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.99619
+      w: -0.08716
+  pause: 0
+# Waypoint 23
+- pose:
+    position:
+      x: 1.0309
+      y: 1.0858
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 24
+- pose:
+    position:
+      x: 0.6832
+      y: 1.0553
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 25
+- pose:
+    position:
+      x: 0.6832
+      y: 0.6954
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 26
+- pose:
+    position:
+      x: 0.3172
+      y: 0.6954
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 27
+- pose:
+    position:
+      x: 0.3172
+      y: 0.549
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 28
+- pose:
+    position:
+      x: 0.3172
+      y: 0.549
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 29
+- pose:
+    position:
+      x: 0.1525
+      y: 0.549
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 2000
+# Waypoint 30
+- pose:
+    position:
+      x: 0.3172
+      y: 0.549
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 31
+- pose:
+    position:
+      x: 0.3172
+      y: 0.549
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 32
+- pose:
+    position:
+      x: 0.3172
+      y: 0.4392
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 33
+- pose:
+    position:
+      x: 0.3172
+      y: 0.4392
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 34
+- pose:
+    position:
+      x: 0.1525
+      y: 0.4392
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 2000
+# Waypoint 35
+- pose:
+    position:
+      x: 0.3172
+      y: 0.4392
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 36
+- pose:
+    position:
+      x: 0.3172
+      y: 0.4392
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 37
+- pose:
+    position:
+      x: 0.3172
+      y: 0.3294
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 38
+- pose:
+    position:
+      x: 0.3172
+      y: 0.3294
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 39
+- pose:
+    position:
+      x: 0.1525
+      y: 0.3294
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 2000
+# Waypoint 40
+- pose:
+    position:
+      x: 0.3172
+      y: 0.3294
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 41
+- pose:
+    position:
+      x: 0.3172
+      y: 0.3294
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 42
+- pose:
+    position:
+      x: 0.3172
+      y: 0.2196
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 43
+- pose:
+    position:
+      x: 0.3172
+      y: 0.2196
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 44
+- pose:
+    position:
+      x: 0.1525
+      y: 0.2196
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 2000
+# Waypoint 45
+- pose:
+    position:
+      x: 0.3172
+      y: 0.2196
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 46
+- pose:
+    position:
+      x: 0.3172
+      y: 0.2196
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 47
+- pose:
+    position:
+      x: 0.3172
+      y: 0.1098
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: -0.70711
+  pause: 0
+# Waypoint 48
+- pose:
+    position:
+      x: 0.3172
+      y: 0.1098
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 49
+- pose:
+    position:
+      x: 0.1525
+      y: 0.1098
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 2000
+# Waypoint 50
+- pose:
+    position:
+      x: 0.3172
+      y: 0.1098
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  pause: 0
+# Waypoint 51
+- pose:
+    position:
+      x: 0.3172
+      y: 0.1098
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 52
+- pose:
+    position:
+      x: 0.3172
+      y: 0.6954
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.92388
+      w: 0.38268
+  pause: 0
+# Waypoint 53
+- pose:
+    position:
+      x: 0.1525
+      y: 0.7808
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0
+# Waypoint 54
+- pose:
+    position:
+      x: 0.1525
+      y: 1.0858
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.70711
+      w: 0.70711
+  pause: 0

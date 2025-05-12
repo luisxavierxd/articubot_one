@@ -1,0 +1,12 @@
+behavior_server:
+  ros__parameters:
+    costmap_topic: local_costmap/costmap_raw
+    footprint_topic: local_costmap/published_footprint
+    cycle_frequency: 10.0
+    behaviors:
+      - name: "spin"
+        type: "nav2_behaviors/Spin"
+      - name: "backup"
+        type: "nav2_behaviors/BackUp"
+      - name: "wait"
+        type: "nav2_behaviors/Wait"

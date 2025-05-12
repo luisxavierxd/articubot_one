@@ -1,0 +1,35 @@
+bt_navigator:
+  ros__parameters:
+    use_sim_time: false # Cambia a true si estás trabajando con simulación
+    global_frame: "map" # Marco de referencia global
+    robot_base_frame: "base_link" # Marco de referencia del robot
+    odom_topic: "/odom" # Tópico de odometría
+    default_bt_xml_filename: "navigate_w_replanning_and_recovery.xml" # Ruta al archivo XML del árbol de comportamiento (Behavior Tree)
+    enable_groot_monitoring: true # Habilita el monitoreo de Groot (si estás usando el visualizador de árboles de comportamiento)
+    planner_plugin: "NavfnPlanner" # Planificador de rutas a utilizar, puedes cambiarlo según tus necesidades
+    controller_plugin: "FollowPath" # Controlador de movimiento, ajusta a tus necesidades
+    controller_frequency: 10.0 # Frecuencia del controlador (en Hz)
+    max_vel_x: 0.5 # Velocidad máxima en el eje x (m/s)
+    max_vel_theta: 1.0 # Velocidad angular máxima (rad/s)
+    min_vel_x: 0.1 # Velocidad mínima en el eje x (m/s)
+    min_vel_theta: 0.2 # Velocidad angular mínima (rad/s)
+    recovery_behaviors:
+      - name: "back_up"
+        plugin: "nav2_recoveries::BackUp"
+        # Configura la recuperación, como retroceder al quedar atascado
+
+    # Configuración de la planificación
+    planner_frequency: 1.0 # Frecuencia de planificación (en Hz)
+    planner_patience: 5.0 # Tiempo máximo esperando a que se calcule la trayectoria (en segundos)
+    max_planning_attempts: 3 # Número máximo de intentos para calcular la trayectoria
+    use_astar_planner: false # Usa A* como planificador (puedes cambiarlo si prefieres otro)
+    goal_reached_radius: 0.2 # Radio de tolerancia para considerar que se ha alcanzado un objetivo (en metros)
+    
+    # Parâmetros para la navegación adaptativa y dinámica
+    dynamic_obstacle: false # Si el robot debe adaptarse a obstáculos dinámicos
+    enable_turn_in_place: true # Si se permite girar en el lugar
+
+    map_server:
+    yaml_filename: "package://articubot_one/maps/map.yaml"  # Ruta al archivo de mapa
+    use_sim_time: false   # Si estás utilizando simulación, ajusta a true si corresponde
+

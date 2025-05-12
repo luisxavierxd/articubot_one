@@ -290,3 +290,13 @@ recoveries_server:
 robot_state_publisher:
   ros__parameters:
     use_sim_time: True
+
+waypoint_follower:
+  ros__parameters:
+    stop_on_failure: false  # Continuar con el siguiente waypoint si ocurre un fallo
+    loop_rate: 20           # Frecuencia de comprobación de resultados
+    waypoint_task_executor_plugin: "wait_at_waypoint"
+    wait_at_waypoint:
+      plugin: "nav2_waypoint_follower::WaitAtWaypoint"
+      enabled: true
+      waypoint_pause_duration: 1500  # Pausa de 5 segundos en cada waypoint
