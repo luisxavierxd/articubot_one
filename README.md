@@ -1,8 +1,8 @@
-ROS 2 Navigation Package for STEAMPACT Raspberry Picking Robot
+ROS 2 Navigation Package for Diffdrive control
 
 📋 Project Overview
 
-The Agrobot project is an autonomous robot designed to harvest raspberries in greenhouses, addressing the labor shortage in Jalisco, Mexico. This repository contains the ROS 2 navigation package used to control the robot's movement, localization, and path planning within the greenhouse environment.
+Autonomous small robot for a comp
 
 🚀 Features
 
